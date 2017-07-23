@@ -3,11 +3,11 @@
 This application is intended to facilitate the users to manage their product list
 
 Features:
-* list :display products
-* show: show information about specific products
-* create: add a new product
-* update: change information of existing products
-* destroy: delete existing products
+* List :display products
+* Show: show information about specific products
+* Create: add a new product
+* Update: change information of existing products
+* Destroy: delete existing products
 
 ## Installation
 
