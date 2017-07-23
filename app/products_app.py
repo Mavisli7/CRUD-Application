@@ -1,7 +1,7 @@
 import csv
 
-#file_path ="data/products.csv"
-file_path ="/Users/mavisup/Desktop/nyu-info-2335-70-201706/projects/crud-app/products.csv"
+file_path ="data/products.csv"
+#file_path ="/Users/mavisup/Desktop/nyu-info-2335-70-201706/projects/crud-app/products.csv"
 
 products=[]
 with open(file_path, "r") as csv_file:
